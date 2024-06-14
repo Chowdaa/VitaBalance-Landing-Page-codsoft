@@ -7,6 +7,8 @@ VitaBalance is a responsive landing page for a holistic wellness company. This p
 A video demonstration of the landing page is available in this repository. Please refer to the `demo.mp4` file.
 [View the demo video](./vitabalance.mp4)
 
+<img src="vita.png" width="600" height="400">
+
 ## Technologies Used
 
 - HTML5
